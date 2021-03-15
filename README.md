@@ -1,5 +1,7 @@
 # throttler
 
+**NOTE**: This is a work in progress 
+
 `Throttler` is a package that implements a simple throttling algorithm based on CPU usage.
 
 # Algorithm
